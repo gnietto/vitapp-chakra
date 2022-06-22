@@ -1,5 +1,5 @@
 {
-  "name": "vitapp-ui",
+  "name": "@gnietto/vitapp-chakra",
   "private": true,
   "main": "index.tsx",
   "version": "0.1.0",
